@@ -1,0 +1,71 @@
+! Title: Shifty-KR Filters List For AdGuard
+! Expires: 1 days
+! Version: 2026.06.20
+
+@@||sbxh*.*^$all
+
+anilife.live##.link
+anilife.live##.al-controls-center
+anilife.live##.al-icon-screenshot.al-icon
+anilife.live##.al-control-screenshot.al-control
+anilife.live##.al-hide-cursor.al-control-screenshot.al-control
+anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
+m.dcinside.com##.trend-rank
+m.naver.com##.comp_card:not(.comp_weather)
+m.naver.com##div#sb-kh-shortents-wrap
+m.naver.com##.id_search.wrap > .main_footer
+m.naver.com##.type_round_card.comp_container
+toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
+
+[$domain=/^blacktoon\d+.com/]##div.mt-2.banner.container > .row
+[$domain=/^blacktoon\d+.com/]##.show.fade.alert-dismissible.alert-danger.alert
+[$domain=/^hdhd\d+.net/]##.toon-nav > [href="/wt"] > .fa-home.fa
+[$domain=/^hdhd\d+.net/]##.clearfix > li > [href="https://t.me/tkrhddz"]
+[$domain=/^hdhd\d+.net/]##.clearfix > li > [href="/마이툰"]
+[$domain=/^hdhd\d+.net/]##.clearfix > li > [href="/망가"]
+[$domain=/^hdhd\d+.net/]##.clearfix > li > [href="http://vipkkhh.com"]
+[$domain=/^hdhd\d+.net/]##.clearfix > li > a[href^="https://hlbam"][href$=".com"]
+[$domain=/^hdhd\d+.net/]##.clearfix > li > [href="http://yadonginfo.com"]
+[$domain=/^tkor\d+.com/]##li:nth-of-type(3)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(4)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(5)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(6)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(7)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(8)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(9)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(10)
+[$domain=/^tkor\d+.com/]###banner_21_img
+[$url=||t*.xtoon*.com^]##.f-tips
+[$url=||t*.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
+[$url=||t*.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
+[$url=||t*.xtoon*.com^]###offcanvasExample > div.offcanvas-body.d-flex.flex-column.gap-4:last-child > a.text-dark.fw-bold:nth-child(3)
+[$url=||t*.xtoon*.com^]###offcanvasExample > div.offcanvas-body.d-flex.flex-column.gap-4:last-child > div.login_info1:nth-child(5) > div.w-100.d-flex.flex-column > small.mt-3.text-secondary:last-child
+[$url=||t*.xtoon*.com^]##.pt-4.container-fluid.hot-comic
+[$url=||t*.xtoon*.com^]##.in-home__search.container.i-search
+[$url=||t*.xtoon*.com^]##div.mt-4.container:nth-of-type(8)
+[$url=||t*.xtoon*.com^]##.pb-60.chapter-ad.w-100
+[$url=||t*.xtoon*.com^]##.chapter-ad.pt-60.w-100
+[$url=||t*.xtoon*.com^]##div.col-lg-6.col-12:nth-of-type(1)
+[$url=||t*.xtoon*.com^]##.comment.container
+[$url=||t*.xtoon*.com^]##.gap-4.d-flex.container.foot-menu
+[$url=||t*.xtoon*.com^]##div.container.mt-0.mt-md-4:nth-child(9)
+[$url=||t*.xtoon*.com^]##.py-5.row
+[$url=||t*.xtoon*.com^]##.d-lg-flex.gap-4.main-menu > [href^="https://www.google.com/search"]
+[$url=||t*.xtoon*.com^]##.d-lg-flex.gap-4.main-menu > .ms-2
+[$url=||t*.xtoon*.com^]##a.align-items-center.d-flex.hover-pink.text-dark.fw-bold:nth-of-type(4)
+[$url=||t*.xtoon*.com^]##a.align-items-center.d-flex.hover-pink.text-dark.fw-bold > [src]
+[$url=||t*.xtoon*.com^]##.history-alert
+[$url=||t*.xtoon*.com^]##.fw-bold.mb-md-2.mb-2
+[$url=||t*.xtoon*.com^]###category-Ad
+[$url=||t*.xtoon*.com^]###go-top
+[$url=||t*.xtoon*.com^]##.justify-content-md-start.justify-content-center.d-flex
+[$url=||b*.toon-bro.xyz^]##.Toastify
+[$url=||b*.toon-bro.xyz^]##button.px-0.lg\:w-9.w-7.py-2.h-9.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center.items-center.inline-flex:nth-of-type(3)
+[$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(3)
+[$url=||b*.toon-bro.xyz^]##div.flex-1.px-1.md\:px-8.container:nth-of-type(1)
+[$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
+[$url=||b*.toon-bro.xyz^]##.bg-background.border.rounded-t-\[10px\].flex-col.h-auto.flex.mt-24.z-50.bottom-0.inset-x-0.fixed
+[$url=||b*.toon-bro.xyz^]##.md\:py-0.md\:px-8.py-6
+[$url=||b*.toon-bro.xyz^]##.bg-black\/80.z-50.inset-0.fixed
+[$url=||b*.toon-bro.xyz^]##.xl\:hidden > div
+[$url=||b*.toon-bro.xyz^]##.mr-2.px-2.py-2.h-9.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center.items-center.inline-flex
