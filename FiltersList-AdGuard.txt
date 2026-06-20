@@ -3,6 +3,7 @@
 ! Version: 2026.06.20
 
 @@||sbxh*.*^$all
+@@||newtoki*.*^$all
 
 anilife.live##.link
 anilife.live##.al-controls-center
