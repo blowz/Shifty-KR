@@ -1,9 +1,6 @@
 ! Title: Shifty-KR Filters List For AdGuard
 ! Expires: 1 days
-! Version: 2026.06.20
-
-@@||sbxh*.*^$all
-@@||newtoki*.*^$all
+! Version: 2026.06.23
 
 anilife.live##.link
 anilife.live##.al-controls-center
