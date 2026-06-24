@@ -1,6 +1,6 @@
 ! Title: Shifty-KR Filters List For AdGuard
 ! Expires: 1 days
-! Version: 2026.06.24
+! Version: 2026.06.25
 
 anilife.live##.link
 anilife.live##.al-controls-center
@@ -8,6 +8,9 @@ anilife.live##.al-icon-screenshot.al-icon
 anilife.live##.al-control-screenshot.al-control
 anilife.live##.al-hide-cursor.al-control-screenshot.al-control
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
+viewership.softc.one##.order-11
+viewership.softc.one##.mt-\[2px\].flex-col.sm\:gap-3.gap-3.flex.box-border > .block.sm\:hidden.w-full.overflow-hidd
+viewership.softc.one##.block.sm\:hidden.w-full.overflow-hidden.flex-col.text-center.bg-\[var\(--foreground-2\)\].rounded-md
 m.dcinside.com##.trend-rank
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 
