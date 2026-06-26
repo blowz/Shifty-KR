@@ -14,6 +14,8 @@ viewership.softc.one##.block.sm\:hidden.w-full.overflow-hidden.flex-col.text-cen
 m.dcinside.com##.trend-rank
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 
+@@||sbxh*.*^$all
+
 [$domain=/^blacktoon\d+.com/]##div.mt-2.banner.container > .row
 [$domain=/^blacktoon\d+.com/]##.show.fade.alert-dismissible.alert-danger.alert
 [$domain=/^hdhd\d+.net/]##.toon-nav > [href="/wt"] > .fa-home.fa
